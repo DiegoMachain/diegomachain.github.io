@@ -31,3 +31,9 @@ I conducted simulations involving an electron lens designed for the Future Circu
 
 ![](/assets/img/BEAM.png)
 
+
+### PINNs for Solving PDEs
+
+
+![](/assets/img/PINNs.png)
+
