@@ -13,7 +13,7 @@
 title: diegomachain.github.io
 
 # Your name to show in the footer
-author: Some Person
+author: Diego Machain
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
