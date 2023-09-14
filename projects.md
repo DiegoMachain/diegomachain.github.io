@@ -20,6 +20,7 @@ The HoloLens 2 was used as a scaner, sequence controller and visualizer of the r
 
 ### 3D vision
 
+In this project we developed an application to change the arrangement of furniture in a scan from a room. We worked exensively with meshes to manipulate vertices conrresponding to individual objects. We also addressed various challenges, such as mesh fixing due to imperfect scans, object collisions, texture management, and managing object relationships between objects.
 
 ### Simulations Studies of Electron Lens Impact on Beam Parameters for Future Circular Colliders
 
