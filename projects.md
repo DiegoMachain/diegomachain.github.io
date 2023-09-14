@@ -17,8 +17,9 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 
 ### Learning-based Articulated Object Mapping with the HoloLens
+The objective of this project was to create a 3D segmented mesh reconstruction of articulated objects with axis parameters of prismatic or rotational joints for robot simulators making use of the HoloLens 2. So we can close the gap between real and digital objects. 
 
-
+In this project I used [Ditto](https://github.com/UT-Austin-RPL/Ditto), which is a learning-based method written with PyTorch that uses encoders-decoders as the network architecture.
 
 ### 3D vision
 
