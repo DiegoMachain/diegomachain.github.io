@@ -15,6 +15,9 @@ The HoloLens 2 was used as a scaner, sequence controller and visualizer of the r
 
 
 
+![](/assets/img/URDF_GIF.gif)
+
+
 ### 3D vision
 
 
