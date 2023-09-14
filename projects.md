@@ -26,3 +26,5 @@ The development was relying heavily on Trimesh and Open3d packages.
 
 I performed simulations of an electron lens for the Future Circular Collider at [CERN](https://www.home.cern). The main porpose of the simulations was to see the effects of such lenses on the beams in the collider. The advantages of these colliders are a compensation of beam-beam effects, Landau damping and collimation for halo particlee. The report for this project can be found [here](https://cds.cern.ch/record/2635161?ln=es)
 
+![](/assets/img/BEAM.png)
+
