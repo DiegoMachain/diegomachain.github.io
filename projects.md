@@ -34,6 +34,7 @@ I conducted simulations involving an electron lens designed for the Future Circu
 
 ### PINNs for Solving PDEs
 
+The objective of this project was to solve the one-dimensional heat equation with a feedforward dense neural network with tunable parameters
 
 ![](/assets/img/PINNs.png)
 
