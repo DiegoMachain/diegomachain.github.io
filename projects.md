@@ -24,3 +24,5 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 
 ### Simulations Studies of Electron Lens Impact on Beam Parameters for Future Circular Colliders
+
+Simulations project performed at CERN, [CERN-THESIS-2018-122](https://cds.cern.ch/record/2635161?ln=es)
