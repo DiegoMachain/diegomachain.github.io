@@ -6,7 +6,7 @@ subtitle: Some projects
 
 
 ### Learning-based Articulated Object Mapping with the HoloLens
-This project was done in the [Autonomous Systems Lab](https://asl.ethz.ch) at ETH Zurich
+This project was done in the [Autonomous Systems Lab](https://asl.ethz.ch) at ETH Zurich.
 The objective of this project was to create a 3D segmented mesh reconstruction of articulated objects with axis parameters of prismatic or rotational joints for robot simulators making use of the HoloLens 2. So we can close the gap between real and digital objects. 
 
 In this project I used [Ditto](https://github.com/UT-Austin-RPL/Ditto), which is a learning-based method written with PyTorch that uses encoders-decoders as the network architecture.
@@ -24,6 +24,5 @@ The development was relying heavily on Trimesh and Open3d packages.
 
 ### Simulations Studies of Electron Lens Impact on Beam Parameters for Future Circular Colliders
 
-
-Simulations project performed at CERN, [CERN-THESIS-2018-122](https://cds.cern.ch/record/2635161?ln=es)
+I performed simulations of an electron lens for the Future Circular Collider at [CERN](https://www.home.cern). The main porpose of the simulations was to see the effects of such lenses on the beams in the collider. The advantages of these colliders are a compensation of beam-beam effects, Landau damping and collimation for halo particlee. The report for this project can be found [here](https://cds.cern.ch/record/2635161?ln=es)
 
