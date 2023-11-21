@@ -7,15 +7,12 @@ subtitle: Why you'd want to go on a date with me
 ![](/assets/img/yo.jpg)
 
 
-My name is Diego Machain. I have the following qualities:
+My name is Diego Machain and I am currently a M.Sc. student at ETH Zurich. The field I'm studying is Computational Science and Engineering with a specialization on robotics. My main areas of interests are computer vision, machine learning and deep AI.
 
-- I rock a great hair
-- I'm extremely loyal to my family
 
-What else do you need?
+My other insterests, like the majority of people living in Switzerland, are mountain biking, hiking and skiing.
 
-### My story
-
+Here you can see me having fun in the mountains 
 
 
 
