@@ -4,6 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+![](/assets/img/yo.jpg)
+
+
 My name is Diego Machain. I have the following qualities:
 
 - I rock a great hair
@@ -13,7 +16,7 @@ What else do you need?
 
 ### My story
 
-I
+
 
 
 
