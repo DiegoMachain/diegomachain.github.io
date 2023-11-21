@@ -3,7 +3,7 @@ layout: post
 title: Learning-based Articulated Object Mapping with the HoloLens
 subtitle: 
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Thumb_semester.png
 share-img: /assets/img/path.jpg
 tags: [HoloLens 2, Transformers, 3D Point Clouds]
 ---
@@ -34,4 +34,4 @@ Finally, after the user double checks the resultant joint axis, the final result
 
 
 In this way we can have an easy top use and fast maping of articulated objects to use in simulations.
-The complete code for this project can be found [here]{https://github.com/DiegoMachain/ArticulatedObjectMapping/tree/main}
+The complete code for this project can be found [here](https://github.com/DiegoMachain/ArticulatedObjectMapping/tree/main).
