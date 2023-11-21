@@ -3,7 +3,7 @@ layout: post
 title: Interactive Room Layout using Scene Graph Manipulation
 subtitle: 
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Thumb_interactive.png
 share-img: /assets/img/path.jpg
 tags: [Graph Neural Networks, Transformers, 3D Point Clouds]
 ---
