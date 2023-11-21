@@ -14,3 +14,5 @@ In this project, we developed an application to change the arrangement of furnit
 ![](/assets/img/3dVision.png){: .mx-auto.d-block :}
 
 Using this tool, you can create different layouts of the same room and evaluate the most practical or the best looking arrengements.
+
+![](/assets/img/room.gif){: .mx-auto.d-block :}
