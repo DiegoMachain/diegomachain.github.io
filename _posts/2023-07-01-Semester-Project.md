@@ -33,4 +33,5 @@ Finally, after the user double checks the resultant joint axis, the final result
 ![](/assets/img/URDF_GIF.gif){: .mx-auto.d-block :}
 
 
+In this way we can have an easy top use and fast maping of articulated objects to use in simulations.
 The complete code for this project can be found [here]{https://github.com/DiegoMachain/ArticulatedObjectMapping/tree/main}
