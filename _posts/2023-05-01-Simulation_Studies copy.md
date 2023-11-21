@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Thumb_cern.png
 share-img: /assets/img/path.jpg
-tags: [Future Circular Collider]
+tags: [Future Circular Collider, Beam-beam effects, Landau damping]
 ---
 
 I conducted simulations involving an electron lens designed for the Future Circular Collider at CERN. The primary objective of these simulations was to assess the impact of these lenses on the beams within the collider. The advantages offered by these colliders include the compensation of beam-beam effects, Landau damping, and collimation for halo particles. 
