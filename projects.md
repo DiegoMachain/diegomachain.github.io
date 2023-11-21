@@ -6,14 +6,19 @@ subtitle: Some projects
 
 
 ### Learning-based Articulated Object Mapping with the HoloLens
-This project was done in the [Autonomous Systems Lab](https://asl.ethz.ch) at ETH Zurich.
+This project was carried out in the [Autonomous Systems Lab](https://asl.ethz.ch) at ETH Zurich.
 The objective of this project was to create a 3D segmented mesh reconstruction of articulated objects with axis parameters of prismatic or rotational joints for robot simulators making use of the HoloLens 2. So we can close the gap between real and digital objects. 
 
 In this project I used [Ditto](https://github.com/UT-Austin-RPL/Ditto), which is a learning-based method written in PyTorch that uses encoders-decoders as the network architecture in conjunction with the HoloLens to also be able to have an easy way for human interaction to double check the results from the automatic process. The structure of the project is as follows:
 
 ![](/assets/img/Process_HoloLens.png)
 
+Where the process begins with two point clouds of the object, one before and one after interaction. These point clouds are recorded and sent from sent from the HoloLens to the server for preprocessing. Then Ditto plays a crucial part, and the point clouds are fused with an affine layer 
+
 The HoloLens 2 was used as a scaner, sequence controller and visualizer of the results. The communication between the HoloLens 2 and the server for was done using ROS.
+
+
+![](/assets/img/Ditto_Arch.png)
 
 
 ![](/assets/img/URDF_GIF.gif)
