@@ -4,20 +4,13 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-![](/assets/img/yo.jpg)
+![](/assets/img/yo.jpg){: .mx-auto.d-block :}
 
 
-My name is Diego Machain and I am currently a M.Sc. student at ETH Zurich. The field I'm studying is Computational Science and Engineering with a specialization on robotics. My main areas of interests are computer vision, machine learning and deep AI for real world problems in Engineering.
+I'm Diego Machain, currently studying for an M.Sc. in Computational Science and Engineering at ETH Zurich, with a focus on robotics. I'm keenly interested in computer vision, machine learning, and deep AI.
+
+Beyond academics, like many in Switzerland, I enjoy mountain biking, hiking, and skiing. Here's a glimpse of me having a great time in the mountains:
 
 
-My other insterests, like the majority of people living in Switzerland, are mountain biking, hiking and skiing.
+![](/assets/img/Ski.HEIC){: .mx-auto.d-block :}
 
-Here you can see me having fun in the mountains 
-
-
-![](/assets/img/Ski.HEIC)
-
-
-
-
-You can see my CV here
